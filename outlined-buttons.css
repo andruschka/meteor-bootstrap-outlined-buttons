@@ -1,0 +1,66 @@
+/* OUTLINE BUTTONS */
+.btn.btn-outline-red{
+  color: #d43f3a;
+  background-color: rgba(224, 122, 119, 0.16);
+  border-color: #d43f3a;
+}
+.btn.btn-outline-red:hover{
+  color: #d43f3a;
+  background-color: rgba(224, 122, 119, 0.46);
+  border-color: #d43f3a;
+}
+
+.btn.btn-outline-green{
+  color: #3AD47E;
+  background-color: rgba(58, 212, 126, 0.08);
+  border-color: #3AD47E;
+}
+.btn.btn-outline-green:hover{
+  color: #3AD47E;
+  background-color: rgba(58, 212, 126, 0.38);
+  border-color: #3AD47E;
+}
+
+.btn.btn-outline-blue{
+  color: #3AA3D4;
+  background-color: rgba(58, 163, 212, 0.13);
+  border-color: #3AA3D4;
+}
+.btn.btn-outline-blue:hover{
+  color: #3AA3D4;
+  background-color: rgba(58, 163, 212, 0.43);
+  border-color: #3AA3D4;
+}
+
+.btn.btn-outline-yellow{
+  color: #CED43A;
+  background-color: rgba(206, 212, 58, 0.05);
+  border-color: #CED43A;
+}
+.btn.btn-outline-yellow:hover{
+  color: #CED43A;
+  background-color: rgba(206, 212, 58, 0.35);
+  border-color: #CED43A;
+}
+
+.btn.btn-outline-orange{
+  color: #F16421;
+  background-color: rgba(241, 100, 33, 0.15);
+  border-color: #F16421;
+}
+.btn.btn-outline-orange:hover{
+  color: #F16421;
+  background-color: rgba(241, 100, 33, 0.45);
+  border-color: #F16421;
+}
+
+.btn.btn-outline-default{
+  color: #DDDDD9;
+  background-color: rgba(221, 221, 217, 0.12);
+  border-color: #DDDDD9;
+}
+.btn.btn-outline-default:hover{
+  color: #DDDDD9;
+  background-color: rgba(221, 221, 217, 0.42);
+  border-color: #DDDDD9;
+}
