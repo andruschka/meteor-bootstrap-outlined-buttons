@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Provides nice outlined buttons via classes btn-outlined-red/blue/green/default/orange for bootstrap 3.",
+  summary: "Provides nice outlined buttons for bootstrap 3.",
   version: "1.0.0",
   git: "https://github.com/andruschka/meteor-bootstrap-outlined-buttons.git"
 });
