@@ -8,4 +8,5 @@ Adds the following classes:
 * btn-outline-default  
 
 USE ONLY with Bootstrap 3 ! ->
-    <button class="btn btn-outline-red">Go!</button>
+      
+    class="btn btn-outline-red"
