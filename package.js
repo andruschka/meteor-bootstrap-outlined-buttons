@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Provides nice outlined buttons for bootstrap 3.",
-  version: "1.0.0",
+  version: "1.1.0",
   git: "https://github.com/andruschka/meteor-bootstrap-outlined-buttons.git"
 });
 
